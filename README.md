@@ -1,5 +1,4 @@
-# H1
-Random Color
+# Random Color
 
 This is a basic app that will simply change the background color when clicking a button.
 
